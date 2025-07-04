@@ -1,0 +1,33 @@
+|memoria_4x3
+O2 <= inst19222.DB_MAX_OUTPUT_PORT_TYPE
+CS => inst12.IN0
+CS => inst41.IN1
+RD => inst13.IN0
+RD => inst41.IN0
+A[0] => inst8.IN0
+A[0] => intst5555.DATAIN
+A[0] => inst30.IN1
+A[0] => inst200.DATAIN
+A[0] => inst28.IN0
+A[0] => 311.DATAIN
+A[0] => inst27.IN0
+A[0] => 377.DATAIN
+A[1] => inst7.IN0
+A[1] => inst6.IN0
+A[1] => inst29.IN0
+A[1] => inst27.IN1
+A[1] => inst123.DATAIN
+A[1] => inst1999.DATAIN
+A[1] => inst2666.DATAIN
+A[1] => inst366.DATAIN
+OE => inst41.IN2
+O1 <= inst20223.DB_MAX_OUTPUT_PORT_TYPE
+O0 <= inst21223.DB_MAX_OUTPUT_PORT_TYPE
+I[0] => ~NO_FANOUT~
+I[1] => ~NO_FANOUT~
+I[2] => inst.DATAIN
+I[2] => inst3.DATAIN
+I[2] => inst11.DATAIN
+I[2] => inst14.DATAIN
+
+

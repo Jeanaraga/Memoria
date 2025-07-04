@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/user/Documents/Memoriia/memoria_4x3.bdf
+source_file = 1, C:/Users/user/Documents/Memoriia/memoria_4x3.vwf
+source_file = 1, C:/Users/user/Documents/Memoriia/db/memoria.cbx.xml
+design_name = memoria_4x3
+instance = comp, \RD~I , RD, memoria_4x3, 1
+instance = comp, \OE~I , OE, memoria_4x3, 1
+instance = comp, \CS~I , CS, memoria_4x3, 1
+instance = comp, \inst41~0 , inst41~0, memoria_4x3, 1
+instance = comp, \O2~I , O2, memoria_4x3, 1
+instance = comp, \O1~I , O1, memoria_4x3, 1
+instance = comp, \O0~I , O0, memoria_4x3, 1
+instance = comp, \I[1]~I , I[1], memoria_4x3, 1
+instance = comp, \I[0]~I , I[0], memoria_4x3, 1
+instance = comp, \A[1]~I , A[1], memoria_4x3, 1
+instance = comp, \A[0]~I , A[0], memoria_4x3, 1
+instance = comp, \I[2]~I , I[2], memoria_4x3, 1
